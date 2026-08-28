@@ -1,6 +1,6 @@
 # Macopy — releases
 
-Public downloads for [Macopy](https://macopy.app), a clipboard manager for macOS.
+Public downloads for [Macopy](https://macbuff.com/apps/macopy), a clipboard manager for macOS.
 
 **The source lives in a separate private repository.** This repo exists only so
 customers can download the app and so the in-app update check has something to
