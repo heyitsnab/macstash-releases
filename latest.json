@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
+  "version": "2.5",
   "url": "https://github.com/heyitsnab/macopy-releases/releases/latest/download/Macopy.dmg",
-  "notes": "Reliability fixes from a full audit: clips marked from search results now always paste, exported files no longer overwrite each other, plus a cleaner drag-and-drop installer."
+  "notes": "Paste several images into any app and they all arrive — Enter hands image runs over as files, and a mix of images and text attaches the pictures then types the words. Plus Shift-sweep marking and polish throughout."
 }
