@@ -1,5 +1,5 @@
 {
-  "version": "2.3",
+  "version": "2.4",
   "url": "https://github.com/heyitsnab/macopy-releases/releases/latest/download/Macopy.dmg",
-  "notes": "Cmd+V now works in every Macopy window — including the licence key field — plus a cleaner licence window, more resilient activation, and history limits that ask before deleting anything."
+  "notes": "Reliability fixes from a full audit: clips marked from search results now always paste, exported files no longer overwrite each other, plus a cleaner drag-and-drop installer."
 }
