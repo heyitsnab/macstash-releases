@@ -1,5 +1,5 @@
 {
-  "version": "3.1",
+  "version": "3.2",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "Screenshots done right: they import from wherever macOS saves them, following live when you change the folder. The optional screen-capture shortcut is now off by default and explains its one-time permission before macOS asks. Plus Show Stash Folder in the menu."
+  "notes": "Copy the uncopyable: select any image in your stash and Shift-Return pastes its words instead of the picture — error dialogs, code in videos, locked PDFs, even QR codes. All read on your Mac, nothing uploaded. Plus menu polish and quality fixes throughout."
 }
