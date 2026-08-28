@@ -1,6 +1,6 @@
-# Macopy — releases
+# MacStash — releases
 
-Public downloads for [Macopy](https://macbuff.com/apps/macopy), a clipboard manager for macOS.
+Public downloads for [MacStash](https://macbuff.com/apps/macstash), a clipboard manager for macOS.
 
 **The source lives in a separate private repository.** This repo exists only so
 customers can download the app and so the in-app update check has something to
@@ -19,13 +19,13 @@ MacBuff apps fetch this file at most once a day and tells you when a newer versi
 exists. It never installs anything on its own.
 
 ```json
-{ "version": "2.2", "url": "https://…/Macopy.dmg", "notes": "…" }
+{ "version": "2.2", "url": "https://…/MacStash.dmg", "notes": "…" }
 ```
 
 Publishing a new version:
 
 1. `./build-dmg.sh` in the private repo (signs, notarizes and staples)
-2. Upload `Macopy.dmg` to a new GitHub Release here, tagged `v<version>`
+2. Upload `MacStash.dmg` to a new GitHub Release here, tagged `v<version>`
 3. Bump `version`, and write `notes` as a sentence a customer would want to read
 4. Commit — the `url` above always resolves to the newest release, so it never
    needs changing
