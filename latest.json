@@ -1,5 +1,5 @@
 {
-  "version": "3.0",
+  "version": "3.1",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "Macopy is now MacStash — same app, same licence, new name. Everything moves over by itself on first launch; macOS asks once to allow access to your licence, so click Always Allow. Plus lifetime stats: MacStash now counts the clips it remembers and the time it saves you."
+  "notes": "Screenshots done right: they import from wherever macOS saves them, following live when you change the folder. The optional screen-capture shortcut is now off by default and explains its one-time permission before macOS asks. Plus Show Stash Folder in the menu."
 }
