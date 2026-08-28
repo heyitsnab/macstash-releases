@@ -1,5 +1,5 @@
 {
-  "version": "3.2",
+  "version": "3.3",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "Copy the uncopyable: select any image in your stash and Shift-Return pastes its words instead of the picture — error dialogs, code in videos, locked PDFs, even QR codes. All read on your Mac, nothing uploaded. Plus menu polish and quality fixes throughout."
+  "notes": "One window: the picker and preview are a single surface, with the mouse a first-class citizen — right-click menus, ⌘-click and ⇧-click marking, and a click anywhere outside closes it. Pins gather under their own seam, ⌘P keeps your place, deletes are undoable with ⌘Z."
 }
