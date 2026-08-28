@@ -1,5 +1,5 @@
 {
-  "version": "2.2",
+  "version": "2.3",
   "url": "https://github.com/heyitsnab/macopy-releases/releases/latest/download/Macopy.dmg",
-  "notes": "Licensing and in-app support. Plus everything from 2.1: OCR search inside screenshots, sequential paste, transforms, editable previews and a crash watchdog."
+  "notes": "Cmd+V now works in every Macopy window — including the licence key field — plus a cleaner licence window, more resilient activation, and history limits that ask before deleting anything."
 }
