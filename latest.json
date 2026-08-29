@@ -1,5 +1,5 @@
 {
-  "version": "3.4",
+  "version": "3.5",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "A new face: the stack-of-clips icon now wears a light-into-deep blue gradient — Dock, menu bar, installer and all. Same app underneath, matching the website at last."
+  "notes": "Gradient cards: dress any screenshot on a glowing card in ten colourways (⌘T, or ⌘⇧1 to capture a window already carded). Capture a Window from the menu bar — no secret keystrokes. Plus a rebuilt illustrated Guide and polish throughout."
 }
