@@ -1,5 +1,5 @@
 {
-  "version": "3.6",
+  "version": "3.6.1",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "Forty-six backdrops in five families - solids, pastels, vivid gradients, radial glows, and aurora washes - plus fully transparent, with your signature in any font, ink, and position. Smaller, glassier confirmations you can move or turn off. And an important fix: licences now survive updates and reinstalls - if MacStash ever asked for your key again after updating, this puts it right for good."
+  "notes": "The audit release: Delete History is fixed (it crashed instead of deleting), licences can never be revoked by an ambiguous server reply, copying is noticeably smoother on screenshot-heavy histories, and a long sweep of small rights - from keep-picker-open working as promised to safer temp files."
 }
