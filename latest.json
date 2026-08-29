@@ -1,5 +1,5 @@
 {
-  "version": "3.3",
+  "version": "3.4",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "One window: the picker and preview are a single surface, with the mouse a first-class citizen — right-click menus, ⌘-click and ⇧-click marking, and a click anywhere outside closes it. Pins gather under their own seam, ⌘P keeps your place, deletes are undoable with ⌘Z."
+  "notes": "A new face: the stack-of-clips icon now wears a light-into-deep blue gradient — Dock, menu bar, installer and all. Same app underneath, matching the website at last."
 }
