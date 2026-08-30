@@ -1,5 +1,5 @@
 {
-  "version": "5.0",
+  "version": "5.1",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "A small polish release: menu icons now speak with one voice. Includes everything from 4.0 - forty-six backdrops, transparent paste, signatures, the glass look, and licences that survive updates."
+  "notes": "Opening MacStash from Finder now opens your history instead of doing nothing, and a one-time hint shows new users where the app lives in the menu bar."
 }
