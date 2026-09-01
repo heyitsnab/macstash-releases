@@ -1,5 +1,5 @@
 {
-  "version": "6.0",
+  "version": "6.0.1",
   "url": "https://github.com/heyitsnab/macstash-releases/releases/latest/download/MacStash.dmg",
-  "notes": "MacStash 6.0: a seven-day free trial for new users, two Macs per license, a friendlier license check-in, faster search and launch, and a dozen polish fixes."
+  "notes": "MacStash 6.0.1: fixes from a full pre-release sweep \u2014 launch settings that stick, \u23181\u20139 always pastes the row you see, clearer trial and license copy, a tamper-resistant trial clock, and a faster menu bar launch."
 }
